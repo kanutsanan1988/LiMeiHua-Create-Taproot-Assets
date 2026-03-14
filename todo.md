@@ -1,0 +1,21 @@
+# Project TODO - LiMeiHua Create Taproot Assets
+
+- [x] Database schema: tokens table, token_transactions table
+- [x] Backend tRPC routers: token CRUD, gas estimation, Taproot Assets API proxy
+- [x] Taproot Assets Protocol API integration service
+- [x] Cyberpunk dark theme with neon pink/cyan styling (index.css + ThemeProvider)
+- [x] i18n system with auto-detect browser locale (20+ languages)
+- [x] Landing page with cyberpunk HUD design
+- [x] Create Token form (name, symbol, supply, decimals, owner address, type selection)
+- [x] Token type selection: Fixed, Mintable, Burnable
+- [x] Gas estimation calculator display
+- [x] My Tokens page: list created tokens with details
+- [x] Mint additional supply feature for Mintable tokens
+- [x] Burn tokens feature for Burnable tokens
+- [x] Token detail view page
+- [x] Navigation with cyberpunk styling
+- [x] Login/Auth integration with Manus OAuth
+- [x] README.md in 20+ world languages
+- [x] Comment header in every source file
+- [x] Vitest unit tests
+- [ ] Push to GitHub repo kanutsanan1988/LiMeiHua-Create-Taproot-Assets
